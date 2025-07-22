@@ -3,7 +3,7 @@
 
 <!-- Stylish Name Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Radhika+Chakrawar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF512F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Radhika+Chakrawar />
 </p>
 
 
