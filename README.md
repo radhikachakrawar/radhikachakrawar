@@ -3,7 +3,7 @@
 
 <!-- Stylish Name Heading -->
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E66F7&center=true&vCenter=true&width=435&lines=Radhika+Chakrawar;Web+Developer;PHP+MySQL+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E66F7&center=true&vCenter=true&width=435&lines=Radhika+Chakrawar" alt="Typing SVG" />
 </p>
 
 ---
