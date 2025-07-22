@@ -2,9 +2,10 @@
 <h1 align="center">Welcome to my GitHub page 👋</h1>
 
 <!-- Stylish Name Heading -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=40&pause=1000&color=2E66F7&center=true&vCenter=true&width=435&lines=Radhika + Chakrawar" alt="Typing SVG" /> 
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Radhika+Chakrawar" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -12,7 +13,7 @@
 
 Hi there, my name is **Radhika Chakrawar** 👩‍💻
 
-I am a passionate and self-motivated full-stack web developer with a strong foundation in front-end and back-end technologies including HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building functional, user-friendly web applications with a focus on real-world problem-solving. Recently, I developed a dynamic PHP-based Form Builder system with email functionality using PHPMailer, showcasing my ability to design, code, and deploy complete web solutions.
+   I am a passionate and self-motivated full-stack web developer with a strong foundation in front-end and back-end technologies including HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building functional, user-friendly web applications with a focus on real-world problem-solving. Recently, I developed a dynamic PHP-based Form Builder system with email functionality using PHPMailer, showcasing my ability to design, code, and deploy complete web solutions.
 
 I have hands-on experience with responsive design principles, database integration, and backend logic. I’m a quick learner, always eager to explore new tools and frameworks that enhance development efficiency. My approach to web development combines clean code, interactive UI/UX, and performance optimization. I am actively seeking opportunities to contribute to meaningful projects and grow as a developer in a collaborative and learning-focused environment. 
 
