@@ -2,10 +2,9 @@
 <h1 align="center">Welcome to my GitHub page 👋</h1>
 
 <!-- Stylish Name Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF512F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Radhika+Chakrawar />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E66F7&center=true&vCenter=true&width=435&lines=Radhika+Chakrawar;Web+Developer;PHP+MySQL+Expert" alt="Typing SVG" />
 </p>
-
 
 ---
 
