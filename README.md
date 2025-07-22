@@ -36,8 +36,8 @@ I have hands-on experience with responsive design principles, database integrati
 
 <!-- GitHub Stats + Top Langs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhe-c&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhe-c&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radhika-chakrawar&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika-chakrawar&layout=compact&theme=default" width="48%" />
 </p>
 
 <!-- GitHub Streak -->
