@@ -13,9 +13,9 @@
 
 Hi there, my name is **Radhika Chakrawar** 👩‍💻
 
-   I am a passionate and self-motivated full-stack web developer with a strong foundation in front-end and back-end technologies including HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building functional, user-friendly web applications with a focus on real-world problem-solving. Recently, I developed a dynamic PHP-based Form Builder system with email functionality using PHPMailer, showcasing my ability to design, code, and deploy complete web solutions.
+I am a passionate and self-motivated full-stack web developer with a strong foundation in HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, React.js, React Native, and WordPress. I enjoy building functional, user-friendly applications and have recently developed a dynamic PHP-based Form Builder system with PHPMailer email integration, demonstrating my ability to design and deploy complete web solutions.
 
-I have hands-on experience with responsive design principles, database integration, and backend logic. I’m a quick learner, always eager to explore new tools and frameworks that enhance development efficiency. My approach to web development combines clean code, interactive UI/UX, and performance optimization. I am actively seeking opportunities to contribute to meaningful projects and grow as a developer in a collaborative and learning-focused environment. 
+I have hands-on experience with responsive design, database integration, and backend development. I’m a quick learner who enjoys exploring new tools and frameworks to improve efficiency. My development approach focuses on clean code, interactive UI/UX, and performance optimization. I am actively seeking opportunities to contribute to impactful projects and grow in a collaborative environment.
 
 ---
 
@@ -29,6 +29,11 @@ I have hands-on experience with responsive design principles, database integrati
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
 </p>
 
 ---
